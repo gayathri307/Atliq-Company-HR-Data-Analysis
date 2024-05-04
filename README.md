@@ -1,5 +1,5 @@
 ### Problem Statement:
-Atliq Company seeks to analyze HR data spanning three months to gain insights into employee performance and attendance patterns. The primary objective is to understand employee attendance trends, including presence, absences, sick leave, half-days, and work-from-home statistics. By delving into this data, the company aims to optimize workforce management strategies and improve overall efficiency.
+AtliQ Company seeks to analyze HR data spanning three months to gain insights into employee performance and attendance patterns. The primary objective is to understand employee attendance trends, including presence, absences, sick leave, half-days, and work-from-home statistics. By delving into this data, the company aims to optimize workforce management strategies and improve overall efficiency.
 
 ### Task List:
 1. **Data Collection and Cleaning:**
